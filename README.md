@@ -4,19 +4,19 @@ Checking, is it a Phishing Website or not.
 
 
 
-<img src="https://github.com/Rajeev095/Phishing_Website_Checker/blob/main/README-Resources/Website-Checker.jpg" width=600>
+<img src="https://github.com/Rajeev095/-Phishing_Website_Checker/blob/main/README-Resources/Website-Checker.jpg" width=600>
 
 ---
 
 ### **Web APP on Heroku**
-<img src="https://github.com/Rajeev095/Phishing_Website_Checker/README-Resources/Phishing.gif" width=600>
+<img src="https://github.com/Rajeev095/-Phishing_Website_Checker/README-Resources/Phishing.gif" width=600>
 
 **[The Project on Heroku](https://websitechecker1.herokuapp.com/)**
 
 ---
 ## The Dataset
-![](https://github.com/Rajeev095/Phishing_Website_Checker/blob/main/README-Resources/Dataset.png)
-### **[Dataset](https://github.com/Rajeev095/Phishing_Website_Checker/blob/main/data.csv)**
+![](https://github.com/Rajeev095/-Phishing_Website_Checker/blob/main/README-Resources/Dataset.png)
+### **[Dataset](https://github.com/Rajeev095/-Phishing_Website_Checker/blob/main/data.csv)**
 ---
 ## **Overview**
 * The Dataset has **2453 rows** and **31 columns**.
@@ -52,7 +52,7 @@ Checking, is it a Phishing Website or not.
 ### **2> Feature Selection:**    
 * There are various techniques for this but here i have used **ExtraTressClassifier**. For, this Project ExtraTressClassifier showed **4 columns** as most important **'Prefix_Suffix'**, **'web_traffic'**, **'URL_of_Anchor'** and **'SSLfinal_State'**.
 
-![Feature Selection](https://github.com/Rajeev095/Phishing_Website_Checker/blob/main/README-Resources/Feature%20Selection.png)
+![Feature Selection](https://github.com/Rajeev095/-Phishing_Website_Checker/blob/main/README-Resources/Feature%20Selection.png)
 
 ---   
 
